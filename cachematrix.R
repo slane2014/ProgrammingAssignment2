@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## This is just an initial commit first
 
 ## Write a short comment describing this function
 
